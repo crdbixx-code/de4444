@@ -4,40 +4,35 @@
   "private": true,
   "dependencies": {
     "axios": "^1.4.0",
-   "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
     "react-hot-toast": "^2.4.0",
     "react-router-dom": "^6.14.1",
-<<<<<<< HEAD
-    "react-scripts": "^0.0.0",
-    "zustand": "^4.4.1"
-=======
     "react-scripts": "^5.0.1",
-    "zustand": "^4.4.1",
->>>>>>> 630a8899c9607857523bfb2a00152f4fc8836cd4
+    "zustand": "^4.4.1"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts eject",
+    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": [
       "react-app",
-      "react-app/jest",
+      "react-app/jest"
     ]
   },
   "browserslist": {
     "production": [
       ">0.2%",
       "not dead",
-      "not op_mini all",
+      "not op_mini all"
     ],
     "development": [
       "last 1 chrome version",
       "last 1 firefox version",
-      "last 1 safari version"',
+      "last 1 safari version"
     ]
   }
 }
